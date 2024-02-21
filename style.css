@@ -1,0 +1,58 @@
+h1 {
+    text-align: center;
+  }
+
+  body {
+    background-color: #D48BC1;
+  }
+
+  button {
+    display: block;
+    margin: auto;
+    text-align: center;
+  }
+  
+  .inputBoxes {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .ballBox {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .inputBoxes input {
+    width: 80%;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .ballBox input {
+    display: flex;
+    width: 39.1%;
+  }
+  
+  .mobileContainer {
+    display:flex;
+  }
+
+
+
+  .entry {
+    display: block;
+    position:absolute;
+    margin-left:auto;
+    margin-right:auto;
+  }
+
+  .entry img {
+    position:relative;
+    left: 50%;
+    transform: translateX(-50%);
+    width:75%;
+  }
+  
